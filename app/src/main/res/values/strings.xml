@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Andriod Notes</string>
+    <string name="menu_about">menu_about</string>
+    <string name="menu_addnote">menu_addnote</string>
+    <string name="enter_note_title">Enter Note Title</string>
+    <string name="enter_notes">Enter Notes</string>
+    <string name="save_button">save_button</string>
+    <string name="multi_andriod_notes">Multi Andriod Notes</string>
+    <string name="_2022_srinivas_dasari">© 2022, Srinivas Dasari</string>
+    <string name="version_1_0">Version 1.0</string>
+</resources>
